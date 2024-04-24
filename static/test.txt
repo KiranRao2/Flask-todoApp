@@ -1,0 +1,5 @@
+python --version
+pip --version
+pip install django    
+django-admin –-version
+django-admin  startproject  schoolproject
